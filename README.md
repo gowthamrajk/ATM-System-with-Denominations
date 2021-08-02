@@ -6,7 +6,7 @@
 
 - This is an application that Explains about the logical working of ATM System.
 - It has various features like..
-- 
+
 **- Deposit money**
 
 **- withdraw money**
