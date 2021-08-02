@@ -8,7 +8,7 @@ import java.util.Date;
 
 public class Main 
 {
-	public static void updateDenominations(int amount, int denomination, Denominations denominationObj)
+    public static void updateDenominations(int amount, int denomination, Denominations denominationObj)
     {
         if(amount == 2000)
             denominationObj.setTwoThousands(denominationObj.getTwoThousands()+denomination);
