@@ -4,4 +4,12 @@
 
 ## 🔭 Features :
 
-- This is an application that Explains about the logical working of ATM System such as deposit money, withdraw, check balance, transaction history, etc... with proper denominations.
+- This is an application that Explains about the logical working of ATM System.
+- It has various features like..
+**- Deposit money**
+
+**- withdraw money**
+
+**- Transaction history**
+
+**- Proper denominations based transactions**
