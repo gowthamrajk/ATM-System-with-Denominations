@@ -57,3 +57,6 @@
 [![](https://img.shields.io/badge/9698382306-25D366?style=social&logo=whatsapp&logoColor=green)]()
 
 <br>
+
+## Copyright-and-license 📌
+
