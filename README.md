@@ -14,3 +14,6 @@
 **- Transaction history**
 
 **- Proper denominations based transactions**
+
+
+# TECHNOLOGIES USED 📌
