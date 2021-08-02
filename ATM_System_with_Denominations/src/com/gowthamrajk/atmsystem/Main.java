@@ -68,7 +68,7 @@ public class Main
 			List<TransactionHistory> transactions = new ArrayList<>();
 			int[] notes = new int[]{2000, 500, 200, 100};
 			System.out.println("Welcome to Gowthamraj K's ATM Management System 👋");
-		    System.out.println("Begin your Transactions Now...\n");
+		        System.out.println("Begin your Transactions Now...\n");
 			while(true)
 			{
 			    int option = 0;
@@ -80,7 +80,7 @@ public class Main
 			    {
 			        case 1:
 			        {
-			        	System.out.println("### Depositing Console ###\n");
+			            System.out.println("### Depositing Console ###\n");
 			            System.out.println("Enter the Denominations to be deposited...");
 			            String denominations[] = scanner.nextLine().split(",");
 			            for(String val : denominations)
@@ -107,7 +107,7 @@ public class Main
 			        }
 			        case 2:
 			        {
-			        	System.out.println("### Withdrawal Console ###\\n");
+			            System.out.println("### Withdrawal Console ###\\n");
 			            System.out.println("Enter the Amount to be Withdrawn...");
 			            int withdrawalAmount = scanner.nextInt();
 			            if( withdrawalAmount < 0 ||  withdrawalAmount == 0 || withdrawalAmount > atmObj.getTotal())
@@ -169,8 +169,8 @@ public class Main
 		} 
         catch(Exception exception) 
         {
-        	exception.printStackTrace();
-		}
+            exception.printStackTrace();
+	}
     }
     
     public static String getTodayDate()
