@@ -17,6 +17,7 @@
 
 **- Proper denominations based transactions**
 
+# CONSOLE OUTPUT ❤️
 
 # TECHNOLOGIES USED 📌
 
