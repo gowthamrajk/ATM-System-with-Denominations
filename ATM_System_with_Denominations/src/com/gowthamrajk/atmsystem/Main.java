@@ -8,7 +8,7 @@ import java.util.Date;
 
 public class Main 
 {
-    public static void updateDenominations(int amount, int denomination, Denominations denominationObj)
+	public static void updateDenominations(int amount, int denomination, Denominations denominationObj)
     {
         if(amount == 2000)
             denominationObj.setTwoThousands(denominationObj.getTwoThousands()+denomination);
@@ -72,7 +72,7 @@ public class Main
 			while(true)
 			{
 			    int option = 0;
-			    System.out.println("Choose any Option shown below\n1) Deposit \n2) Withdrawal \n3) View Transaction History \n4) End");
+			    System.out.println("Choose any Option shown below\n1) Deposit \n2) Withdrawal \n3) check Balance \n4) View Transaction History \n5) End");
 			    option = scanner.nextInt();
 			    System.out.println();
 			    scanner.nextLine();
@@ -139,6 +139,18 @@ public class Main
 			        }
 			        case 3:
 			        {
+			        	int currentBalance = atmObj.getTotal();
+			        	if(currentBalance <= 0)
+			        	{
+			        		System.out.println("You dont have any Balance right now 👎, start you transactions !!!\n");
+			        		continue;
+			        	}
+			        	else
+			        		System.out.println("Your Current Balance amount is Rs:"+currentBalance+"\n");
+			        	break;
+			        }
+			        case 4:
+			        {
 			        	if(transactions.size() == 0)
 			        		System.out.println("Your Transaction is Empty 👎. Please make some transactions !!!\n\n");
 			        	else
@@ -153,7 +165,7 @@ public class Main
 			        	}
 			        	break;
 			        }
-			        case 4:
+			        case 5:
 			        {
 			        	System.out.println("Thankyou for using my Console Application 😃");
 			        	System.out.println("Hope you had a great time !!!");
