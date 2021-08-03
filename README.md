@@ -6,6 +6,9 @@
 
 - This is an application that Explains about the logical working of ATM System.
 - It has process for Denominations like [2000, 500, 200, 100]
+- 
+**[Note: In future, its easy to manipute the code for much more denominations as 1000, 50, 20, 10, 5, 1]**
+
 - It has various features like..
 
 **- Deposit money**
