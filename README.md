@@ -34,7 +34,7 @@
 
 ## Deposit 2: 2000s:3, 500s:3, 200s:10, 100s:5
 
-![image](https://user-images.githubusercontent.com/43011442/127978043-d5cc0ae2-e5f9-4444-9f78-8762f0644f85.png)
+![image](https://user-images.githubusercontent.com/43011442/127978184-e46385ba-94fb-4bfc-954b-1aef9759979f.png)
 
 
 
