@@ -27,7 +27,8 @@
 
 ![image](https://user-images.githubusercontent.com/43011442/127977282-0e88114f-974d-4094-8a80-5fdd20433f3d.png)
 
-## 
+## Sample Test Cases
+
 ## Deposit 1 : 2000s:8, 500s:10
 
 ![image](https://user-images.githubusercontent.com/43011442/127977741-475febee-e378-425f-a269-d759e05460f0.png)
