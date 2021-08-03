@@ -61,6 +61,7 @@
 
 ## Withdraw 5: -2500
 
+![image](https://user-images.githubusercontent.com/43011442/127979472-18d6ee99-ad70-4cc4-aad9-3c265d4224b9.png)
 
 
 ## Check Balance
