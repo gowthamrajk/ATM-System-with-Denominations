@@ -54,6 +54,10 @@
 ![image](https://user-images.githubusercontent.com/43011442/127978946-8cc8927c-e092-4cb3-a9aa-b48063b27271.png)
 
 
+## Withdraw 4: 000
+
+
+
 ## Check Balance
 
 ![image](https://user-images.githubusercontent.com/43011442/127979049-6e2a482e-d129-4a0d-a372-4f367a39bd41.png)
