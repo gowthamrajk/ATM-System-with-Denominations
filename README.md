@@ -29,6 +29,11 @@
 
 ## Deposit 1 : 2000s:8, 500s:10
 
+![image](https://user-images.githubusercontent.com/43011442/127977741-475febee-e378-425f-a269-d759e05460f0.png)
+
+
+
+
 # TECHNOLOGIES USED 📌
 
 ## Development 🔭
