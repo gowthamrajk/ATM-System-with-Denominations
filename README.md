@@ -9,7 +9,9 @@
 
 **- Deposit money**
 
-**- withdraw money**
+**- Withdraw money**
+
+**- Check Balance**
 
 **- Transaction history**
 
