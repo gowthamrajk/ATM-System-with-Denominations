@@ -74,6 +74,10 @@
 ![image](https://user-images.githubusercontent.com/43011442/127979646-6df420b2-9c48-47fb-b908-5c792f824a0c.png)
 
 
+## End the Application
+
+
+
 # TECHNOLOGIES USED 📌
 
 ## Development 🔭
