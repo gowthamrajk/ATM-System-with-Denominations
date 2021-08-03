@@ -5,6 +5,7 @@
 ## 🔭 Features :
 
 - This is an application that Explains about the logical working of ATM System.
+- It has process for Denominations like [2000, 500, 200, 100]
 - It has various features like..
 
 **- Deposit money**
