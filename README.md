@@ -19,6 +19,8 @@
 
 # CONSOLE OUTPUT ❤️
 
+## Starting Application
+
 # TECHNOLOGIES USED 📌
 
 ## Development 🔭
