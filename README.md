@@ -105,7 +105,7 @@
 
 # ![](https://img.shields.io/static/v1?style=for-the-badge&message=Gowthamraj+K&color=007396&label=) 😄
 
-**Visit my [Portfolio](https://gowthamrjk.github.io/) for more info**
+**Visit my [Portfolio](https://gowthamrajk.github.io/) for more info**
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Fullstack+Web+Developer&color=0b3d36&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=UI+Designer&color=d92323&label=) ![](https://img.shields.io/static/v1?style=for-the-badge&message=Learning+new+things&color=0c0c4f&label=)  ![](https://img.shields.io/static/v1?style=for-the-badge&message=Design+Thinker&color=0b3d17&label=) 
 
@@ -127,7 +127,7 @@
 
 **Code and documentation Copyright 2021 : Gowthamraj K**
 
-[website1]: https://gowthamrjk.github.io/
+[website1]: https://gowthamrajk.github.io/
 [hackerrank]: https://www.hackerrank.com/gowthamraj692
 [website]: https://github.com/gowthamrajk
 [twitter]: https://twitter.com/Gowtham29341737
