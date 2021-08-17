@@ -1,6 +1,8 @@
 # ATM Management System - with Denominations ❤️
 
-![](https://img.shields.io/github/languages/count/gowthamrajk/ATM_System_with_Denominations)   ![](https://img.shields.io/github/languages/top/gowthamrajk/ATM_System_with_Denominations)
+![](https://img.shields.io/github/languages/count/gowthamrajk/ATM-System-with-Denominations
+)   ![](https://img.shields.io/github/languages/top/gowthamrajk/ATM-System-with-Denominations
+)
 
 ### For more such developments, visit my [Portfolio](https://gowthamrajk.github.io)
 
